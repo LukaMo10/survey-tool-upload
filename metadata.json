@@ -1,0 +1,5 @@
+{
+  "name": "开放题处理工具",
+  "description": "基于 Gemini 2.5 Flash 的智能问卷分析工具。即时提取摘要、情感倾向及关键主题。",
+  "requestFramePermissions": []
+}
